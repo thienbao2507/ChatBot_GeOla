@@ -1,0 +1,7 @@
+openai
+gradio
+python-dotenv
+newspaper3k
+beautifulsoup4
+requests
+pymupdf
